@@ -1,6 +1,6 @@
 /**
  * AI Smart Work Portfolio - Interactive Application Logic
- * Author: Park Jiwon (20222958) | Hallym University
+ * Author: Park Jiwon | Hallym University
  * Supports: Search, Category Filters, Sorting, In-Browser Video/Image/Doc Preview, Deep-Linking
  */
 
